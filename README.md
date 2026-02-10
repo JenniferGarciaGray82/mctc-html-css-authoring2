@@ -1,2 +1,2 @@
-# mctc-html
-Sp26 HTML/CSS Authoring 2
+# mctc-html-css-authoring2
+
